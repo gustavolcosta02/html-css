@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+    text-align: center;
+    background-color: #61F280;
+}
+
+header{
+    background-image: linear-gradient( to bottom,#13BD38,#2D703B);
+
+    
+    
+    padding: 20px;
+   
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+header > nav{
+    text-align: left;
+    margin-left: 20px;
+}
+
+#link{
+    margin-left: 20px;
+    
+}
+
+main{
+    margin:0px 300px 0px 300px;
+    background-color: white;
+}
+
+main >section >h1{
+    margin-top: 0px;
+}

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+        
+    font: normal 15px arial, verdana;
+}
+
+h1{
+    text-align: left;
+
+}
+h1#principal{
+    text-align: center;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
+h2{
+    text-align: left;
+}
+
+.avancado{
+    color: blueviolet;
+}
+
+.intermediario{
+    color: brown;
+    
+}
+
+p{
+    text-align:  justify;
+    text-indent: 20px;
+}
